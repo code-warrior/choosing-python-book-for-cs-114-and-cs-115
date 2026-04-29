@@ -1,0 +1,14 @@
+{
+  "name": "choosing-python-book-for-cs-114-and-cs-115",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roy Vanegas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.1"
+  }
+}
