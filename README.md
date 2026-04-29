@@ -2,11 +2,20 @@
 
 ## Install Deckset Theme (macOS)
 
-**Note**: You’ll need the Ringside and IBM Plex Mono typefaces installed before installing this theme. Otherwise, Deckset will revert to default sans-serif typefaces.
+Double-click `deckset-theme/Simple (Roy Vanegas).dstheme`, which should launch Deckset and include `Simple (Roy Vanegas).dstheme` to the list of themes.
 
-1. Double-click `deckset-theme/Simple (Roy Vanegas).dstheme`
-2. Open `choosing-python-book-for-cs-114-and-cs-115` with Deckset
-3. Choose the theme `Simple (Roy Vanegas)`
+---
+
+## Install Typefaces
+
+Ringside and IBM Plex Mono typefaces are required; the former proprietary, the latter open-source. Deckset will revert to default sans-serif typefaces if these are not found.
+
+---
+
+## Load Markdown File in Deckset
+
+1. Open `list-of-python-books-to-consider-for-cs-114-and-cs-115.md` with Deckset
+2. Choose the theme `Simple (Roy Vanegas)`
 
 ---
 
