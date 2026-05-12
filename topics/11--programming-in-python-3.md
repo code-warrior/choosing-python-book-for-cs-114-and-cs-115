@@ -6,8 +6,14 @@
 **Edition**: N/A
 **Year**: Unknown
 **Blackboard Integration**: Yes, via zyBooks
-**Cost**: Unknown
+**Cost**: $69 without labs, $94 with labs, and $104 to add another book
 **Link**: [zyBooks](https://www.zybooks.com/catalog/programming-in-python-3/)
+
+**❖ Notes ❖**
+
+* Students have the ability to print individual chapters and save book as PDF
+* Faculty can mix and match content from different books into a single “book”
+* One course with multiple sections can be structured for sharing
 
 ---
 
